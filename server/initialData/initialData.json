@@ -1,0 +1,135 @@
+{
+  "cards": [
+    {
+      "title": "first card",
+      "subtitle": "first card subtitle",
+      "description": "first card description2",
+      "phone": "050-0000000",
+      "email": "first@gmsil.com",
+      "web": "",
+      "image": {
+        "url": "",
+        "alt": ""
+      },
+      "address": {
+        "state": "string",
+        "country": "string",
+        "city": "string",
+        "street": "string",
+        "houseNumber": "1",
+        "zip": "1"
+      }
+    },
+    {
+      "title": "second card",
+      "subtitle": "second card subtitle",
+      "description": "second card description2",
+      "phone": "050-1111111",
+      "email": "second@gmsil.com",
+      "web": "",
+      "image": {
+        "url": "",
+        "alt": ""
+      },
+      "address": {
+        "state": "string",
+        "country": "string",
+        "city": "string",
+        "street": "string",
+        "houseNumber": "1",
+        "zip": "1"
+      }
+    },
+    {
+      "title": "third card",
+      "subtitle": "third card subtitle",
+      "description": "third card description2",
+      "phone": "050-2222222",
+      "email": "third@gmsil.com",
+      "web": "",
+      "image": {
+        "url": "",
+        "alt": ""
+      },
+      "address": {
+        "state": "string",
+        "country": "string",
+        "city": "string",
+        "street": "string",
+        "houseNumber": "1",
+        "zip": "1"
+      }
+    }
+  ],
+  "users": [
+    {
+      "name": {
+        "first": "admin",
+        "middle": "as3",
+        "last": "ben abu3"
+      },
+      "phone": "050-0000000",
+      "email": "admin@gmail.com",
+      "password": "Aa1234!",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+        "alt": "profile"
+      },
+      "address": {
+        "state": "israel",
+        "country": "israel",
+        "city": "hadera",
+        "street": "dor",
+        "houseNumber": 5,
+        "zip": 12345
+      },
+      "isBusiness": true,
+      "isAdmin": true
+    },
+    {
+      "name": {
+        "first": "business",
+        "middle": "as2",
+        "last": "ben abu2"
+      },
+      "phone": "050-1111111",
+      "email": "business@gmail.com",
+      "password": "Aa1234!",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+        "alt": "profile"
+      },
+      "address": {
+        "state": "israel",
+        "country": "israel",
+        "city": "hadera",
+        "street": "dor",
+        "houseNumber": 5,
+        "zip": 12345
+      },
+      "isBusiness": true
+    },
+    {
+      "name": {
+        "first": "regular",
+        "middle": "as1",
+        "last": "ben abu1"
+      },
+      "phone": "050-0000000",
+      "email": "regular@gmail.com",
+      "password": "Aa1234!",
+      "image": {
+        "url": "https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_960_720.jpg",
+        "alt": "profile"
+      },
+      "address": {
+        "state": "israel",
+        "country": "israel",
+        "city": "hadera",
+        "street": "dor",
+        "houseNumber": 5,
+        "zip": 12345
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "production",
+  "PORT": 8181,
+  "DB_NAME": "adi",
+  "DB_PASSWORD": "123456"
+}
